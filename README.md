@@ -1,4 +1,6 @@
-[CSE111_Notion_Cheat_Sheet.md](https://github.com/user-attachments/files/32113069/CSE111_Lab12_Notion_Cheat_Sheet.md)
+[CSE111_Notion_Cheat_Sheet.md](https://github.com/user-attachments/files/32113069/CSE111_Lab12_Notion_Cheat_Sheet.md)  
+https://app.notion.com/p/CSE111_Notion_Cheat_Sheet-48cb687f04c648f682633f46584c6d33?source=copy_link
+
 # CSE111 Programming Language II ---Cheat Sheet by Samia Rahman Mridula
    
 > **Exam-focused Notion notes** based on the CSE111 Lab 12 Practice
