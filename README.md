@@ -1,7 +1,7 @@
 [CSE111_Notion_Cheat_Sheet.md](https://github.com/user-attachments/files/32113069/CSE111_Lab12_Notion_Cheat_Sheet.md)  
 https://app.notion.com/p/CSE111_Notion_Cheat_Sheet-48cb687f04c648f682633f46584c6d33?source=copy_link
 
-website - https://paint-geranium-15e.notion.site/cse111-48cb687f04c648f682633f46584c6d33
+ link - https://paint-geranium-15e.notion.site/cse111-48cb687f04c648f682633f46584c6d33
 
 # CSE111 Programming Language II ---Cheat Sheet by Samia Rahman Mridula
    
